@@ -1,0 +1,51 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="ug3_jcu0AUIW5zwQNx9j">
+    <mxGraphModel dx="2440" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-2" value="Диаграмма потоков данных для процесса #4 - &lt;b&gt;Приём и обработка платежей.&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-3" value="&lt;b&gt;4.1&lt;/b&gt; Оплата за&amp;nbsp;&lt;div&gt;приём&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-5" value="Кассир" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-6" value="Кассовая&lt;div&gt;книга&lt;/div&gt;&lt;div&gt;(XLS)&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="135" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-38" value="Легенда" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-39" value="Процесс" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-40" value="Сущность&amp;nbsp;&lt;div&gt;(система / персона)&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37.5" y="320" as="sourcePoint" />
+            <mxPoint x="137.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-42" value="Поток данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yQPWJwSUlOFOJMtK6d3c-41">
+          <mxGeometry x="0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-43" value="Хранилище" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQPWJwSUlOFOJMtK6d3c-51" value="меры защиты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="404" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
